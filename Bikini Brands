@@ -1,3 +1,24 @@
 { "AliExpress Update": "30 Nov, 2021", "Currency": "USD", "Category": "Cotxapi", "View": "358", 
 "items": [ {"login": "Live Shop",
- "html_url": "https://w1app.blogspot.com/p/28-bni-brands-in-one-app.html?m=1" }]}
+ "html_url": "https://w1app.blogspot.com/p/28-bni-brands-in-one-app.html?m=1" }],
+ 
+ 
+ 
+
+"Album": Remove [
+{
+"name": "AliExpress", 
+"link_created": "18 May 2021",
+"numOfSongs": "45",
+"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmhR8R10tOZs4XLNqL0zHYmF_7-Ci6-kRuvYkPrLPxum1v_WzH8VqJQr2ljTZ6sxSJpbQ&usqp=CAU", 
+"YearOfRelease": "2014",
+"html": "https://s.click.aliexpress.com/e/_AUrTgl",
+"download": "https://play.google.com/store/apps/collection/cluster?clp=igM-ChkKEzUyOTEwMjcxNjMxOTU1Nzk2OTEQCBgDEh8KGWNvbS5jaW5vdGV4cHJlc3MudDIwMDA0NTYQARgDGAE%3D:S:ANO1ljIo5ag&gsr=CkGKAz4KGQoTNTI5MTAyNzE2MzE5NTU3OTY5MRAIGAMSHwoZY29tLmNpbm90ZXhwcmVzcy50MjAwMDQ1NhABGAMYAQ%3D%3D:S:ANO1ljL8ipo"
+}
+]}
+ 
+ 
+ 
+ 
+ 
+ }
